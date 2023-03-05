@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
+/* Comandos do Node
+
+-ls = lista todos os arquivos e pastas que estao dentro do vs
+- ls -all = Mostra todos os arquivos invisiveis com suas informaçoes
+- clear = limpa a tela
+- seta pra cima e pra baixo mostra todos os comandos anteriores que eu ultilizei
+- cd .. = volta para a pasta anterior
+- cd +ctrl v = cola o caminho que voce quer que ele volte
+- mkdir "teste" = Cria uma nova pasta com nome "teste"
+- touch "teste.js" = Cria um novo arquivo com nome "teste.js"
+- touch teste/teste.js = Cria um arquivo dentro da pasta teste
+- rm teste.js = Remove o arquivo teste.js
+- rm -r teste = Remove a pasta teste
+- cd c+Tab = Ele auto completa com as pastas que começam com C
+- cleancss -o css/portifolio.min.css css/portifolio.css = Criar um novo arquivo (portifolio.min.css) de forma otimizada sem os espaços para que o arquivo fique menor e abra mais rapido no site
+*/
